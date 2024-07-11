@@ -24,8 +24,8 @@ export default function _layout() {
        
         <Tabs.Screen name='search'
         options={{tabBarIcon:({color}) => (
-            <View style={{backgroundColor:colors.primaryColor,paddingHorizontal:16,paddingVertical:12,borderRadius:10,height:50}}>
-              <Ionicons name='search' size={28} color={colors.white}/> 
+            <View style={{backgroundColor:colors.primaryColor,paddingHorizontal: 16,paddingVertical:12,borderRadius:10,height:50}}>
+              <Ionicons name='search-outline' size={24} color={colors.white}/> 
             </View>
   
          )}}/>
