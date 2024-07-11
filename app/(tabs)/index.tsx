@@ -1,14 +1,25 @@
 import { View, Text, StyleSheet } from 'react-native'
 import React from 'react'
+import { Stack } from 'expo-router'
 
-const Page = () =>{
+const Home = () =>{
   return (
-    <View style={styles.container}> 
-      <Text>Page</Text>
+    <>
+    <Stack.Screen options={{
+    headerTransparent:true,
+    headerTitle:"",
+
+
+    }}/>
+    <View style={
+      styles.container
+    }>
+      <Text >Home</Text>
     </View>
+    </>
   )
 }
-export default Page
+export default Home
 const styles = StyleSheet.create({
     container: {
         flex:1,
