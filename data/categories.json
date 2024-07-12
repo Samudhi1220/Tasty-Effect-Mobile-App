@@ -1,0 +1,39 @@
+[
+    
+        {
+            "id": 1,
+            "name":"Cookies",
+            "photo_url":
+              "https://carissashaw.com/wp-content/uploads/2020/03/Cream-Cheese-Sprinkle-Cookies-hero.jpg",
+              "recipesCount":  "1 recipes"
+          },
+
+    {
+      "id": 3,
+      "name":"Italian Food",
+      "photo_url":
+        "https://www.eatthis.com/wp-content/uploads/sites/4/2021/02/italian-food.jpg?quality=82&strip=1",
+        "recipesCount":  "1 recipes"
+    },
+    {
+        "id": 4,
+        "name":"Smoothies",
+        "photo_url":
+          "https://recipes.net/wp-content/uploads/2023/09/3-colourful-fruit-smoothie-ideas-1694780307.jpg",
+          "recipesCount":  "1 recipes"
+      },
+   
+      {
+        "id": 2,
+        "name":"Mexican Food",
+        "photo_url":
+          "https://computerconsulting101.com/wp-content/uploads/2019/07/images2151-5d1a71ff1b476.jpg",
+          "recipesCount":  "1 recipes"
+      },
+    {
+      "id": 5,
+      "name": "Pizza",
+      "photo_url": "https://static.vecteezy.com/system/resources/previews/033/128/915/large_2x/culinary-artistry-a-colorful-veggie-pizza-that-will-make-your-taste-buds-dance-ai-generated-photo.jpg",
+      "recipesCount": "2 recipes"
+    }
+  ]

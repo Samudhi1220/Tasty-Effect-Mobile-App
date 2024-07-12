@@ -12,8 +12,17 @@ export default function Home() {
           headerTitle: "Home",
           headerTitleAlign: 'center',
     
-        
-
+          headerBackground: () => (
+            <Image
+            source={{ uri: 'https://www.shutterstock.com/image-photo/summer-bbq-food-corner-border-260nw-1765546103.jpg' }}
+            style={{ width: '100%', height: '100%' }}
+          />
+        ),
+        headerTitleStyle: {
+          fontWeight: 'bold',
+          fontSize: 18,
+          color: 'white',
+        }
         }
       } />
       <View style={{ backgroundColor:'white', padding:16}} >
