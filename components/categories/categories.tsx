@@ -1,7 +1,7 @@
 import { View, Text, FlatList, TouchableOpacity, Image } from 'react-native';
 import React from 'react';
-import { Stack } from 'expo-router';
-import categories from '@/data/categories.json'; // Make sure to replace this path with your actual path
+import { Link, Stack } from 'expo-router';
+import category from '@/data/category.json'; // Make sure to replace this path with your actual path
 import colors from '@/constants/colors'; // Make sure to replace this with your actual path
 
 export default function Category() {
@@ -26,7 +26,7 @@ export default function Category() {
       />
       <View style={{ backgroundColor: 'white', padding: 20}}>
         <FlatList
-          data={categories}
+          data={category}
           showsVerticalScrollIndicator={false}
           contentContainerStyle={{
             gap: 20,
@@ -35,7 +35,10 @@ export default function Category() {
           }}
           renderItem={({ item, index }) => (
             <View key={index} style={{ width: '100%', borderRadius: 15, borderColor: colors.black, borderWidth: 0.5 }}>
+               <Link href={`/recipesScreen/cookies/${item.id}`}
+               asChild>
               <TouchableOpacity>
+
                 <Image source={{ uri: item.photo_url }} style={{ width: '100%', height: 160, borderRadius: 15 }} />
                 <View style={{
                   flex: 1,
@@ -47,7 +50,10 @@ export default function Category() {
                   <Text style={{ textAlign: 'center', fontWeight: 'bold', fontSize: 16 }}> {item.name} </Text>
                   <Text style={{ textAlign: 'center', fontSize: 12 }}> {item.recipesCount} </Text>
                 </View>
+              
               </TouchableOpacity>
+              </Link>
+            
             </View>
           )}
         />

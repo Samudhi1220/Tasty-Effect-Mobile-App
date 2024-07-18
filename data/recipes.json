@@ -1,0 +1,596 @@
+[
+    {
+      "category": "cookies",
+      "recipes": [
+        {
+          "name": "Chocolate Chip Cookies",
+          "photo_url":"https://www.recipetineats.com/tachyon/2017/06/Soft-Chocolate-Chip-Cookies-3.jpg",
+          "ingredients": [
+            "all-purpose flour",
+            "baking soda",
+            "salt",
+            "unsalted butter",
+            "granulated sugar",
+            "brown sugar",
+            "vanilla extract",
+            "large egg",
+            "semisweet chocolate chips"
+          ],
+          "prepTime": "20 minutes",
+          "description": "Classic chocolate chip cookies that are soft and chewy with gooey chocolate chips.",
+          "steps": [
+            "Preheat oven to 350°F (175°C) and line baking sheets with parchment paper.",
+            "In a bowl, whisk together flour, baking soda, and salt.",
+            "In another bowl, beat together butter, granulated sugar, brown sugar, and vanilla until creamy.",
+            "Add egg to the butter mixture and beat until well combined.",
+            "Gradually add dry ingredients to the wet mixture, mixing until just combined.",
+            "Stir in chocolate chips.",
+            "Drop spoonfuls of dough onto prepared baking sheets and bake for 10-12 minutes until edges are golden.",
+            "Cool on baking sheets for a few minutes before transferring to wire racks to cool completely."
+          ]
+        },
+        {
+          "name": "Thumbprint Cookies",
+          "photo_url":"https://mamasonabudget.com/wp-content/uploads/2022/03/Easter-Blossom-Cookies-Featured-Image.jpg",
+          "ingredients": [
+            "all-purpose flour",
+            "unsalted butter",
+            "granulated sugar",
+            "vanilla extract",
+            "large egg",
+            "salt",
+            "chopped nuts",
+            "fruit preserves"
+          ],
+          "prepTime": "25 minutes",
+          "description": "Buttery cookies with a sweet center of fruit preserves and crunchy chopped nuts.",
+          "steps": [
+            "Preheat oven to 350°F (175°C) and line baking sheets with parchment paper.",
+            "In a bowl, whisk together flour and salt.",
+            "In another bowl, beat together butter, sugar, and vanilla until light and fluffy.",
+            "Add egg to the butter mixture and beat until well combined.",
+            "Gradually add dry ingredients to the wet mixture, mixing until just combined.",
+            "Shape dough into balls and place on prepared baking sheets.",
+            "Make an indentation in each cookie with your thumb or the back of a spoon.",
+            "Fill each indentation with fruit preserves and sprinkle with chopped nuts.",
+            "Bake for 12-15 minutes until edges are lightly golden.",
+            "Cool on baking sheets for a few minutes before transferring to wire racks to cool completely."
+          ]
+        },
+        {
+          "name": "Peanut Butter Cookies",
+           "photo_url":"https://preppykitchen.com/wp-content/uploads/2021/07/Peanut-Butter-Cookie-Recipe-n-500x500.jpg",
+          "ingredients": [
+            "all-purpose flour",
+            "baking soda",
+            "salt",
+            "unsalted butter",
+            "creamy peanut butter",
+            "granulated sugar",
+            "brown sugar",
+            "vanilla extract",
+            "large egg"
+          ],
+          "prepTime": "20 minutes",
+          "description": "Rich and nutty peanut butter cookies with a soft and chewy texture.",
+          "steps": [
+            "Preheat oven to 350°F (175°C) and line baking sheets with parchment paper.",
+            "In a bowl, whisk together flour, baking soda, and salt.",
+            "In another bowl, beat together butter, peanut butter, granulated sugar, brown sugar, and vanilla until creamy.",
+            "Add egg to the butter mixture and beat until well combined.",
+            "Gradually add dry ingredients to the wet mixture, mixing until just combined.",
+            "Roll dough into balls and place on prepared baking sheets.",
+            "Flatten each ball with a fork to make a crisscross pattern.",
+            "Bake for 10-12 minutes until edges are lightly golden.",
+            "Cool on baking sheets for a few minutes before transferring to wire racks to cool completely."
+          ]
+        },
+        {
+          "name": "Stained Glass Window Cookies",
+          "photo_url":"https://artofnaturalliving.com/wp-content/uploads/2021/11/Stained_Glass_Cookies_03-copy.jpg",
+          "ingredients": [
+            "hard candies (assorted colors)",
+            "cookie dough (sugar cookie or gingerbread)"
+          ],
+          "prepTime": "15 minutes",
+          "description": "Colorful and festive cookies with a 'stained glass' effect made from melted hard candies.",
+          "steps": [
+            "Preheat oven to 350°F (175°C) and line baking sheets with parchment paper.",
+            "Prepare cookie dough according to recipe or use store-bought dough.",
+            "Roll out cookie dough on a floured surface and cut out shapes using cookie cutters.",
+            "Place cut-out cookies on prepared baking sheets.",
+            "Crush hard candies into small pieces and fill the cut-out centers of the cookies with the candy.",
+            "Bake for 8-10 minutes until cookies are lightly golden and candies are melted.",
+            "Cool on baking sheets for a few minutes before transferring to wire racks to cool completely."
+          ]
+        }
+      ]
+    },
+    {
+      "category": "italian",
+      "recipes": [
+        {
+          "name": "Pasta with Etruscan Sauce",
+          "photo_url":"https://images.101cookbooks.com/penne-alla-vodka-h.jpg?w=680&auto=compress&auto=format",
+          "ingredients": [
+            "pasta",
+            "olive oil",
+            "garlic",
+            "anchovy fillets",
+            "capers",
+            "black olives",
+            "canned tomatoes",
+            "fresh basil",
+            "salt",
+            "black pepper",
+            "Parmesan cheese"
+          ],
+          "prepTime": "30 minutes",
+          "description": "A robust and flavorful pasta dish with a savory tomato-based sauce enriched with anchovies and olives.",
+          "steps": [
+            "Cook pasta according to package instructions until al dente. Reserve some pasta water.",
+            "In a large skillet, heat olive oil over medium heat.",
+            "Add minced garlic and anchovy fillets, cooking until anchovies dissolve into the oil.",
+            "Add capers and sliced black olives, cooking for another minute.",
+            "Stir in canned tomatoes and cook until sauce thickens slightly, about 10 minutes.",
+            "Season with salt and black pepper to taste.",
+            "Add cooked pasta to the skillet and toss to coat, adding reserved pasta water if needed to loosen the sauce.",
+            "Serve topped with fresh basil leaves and grated Parmesan cheese."
+          ]
+        },
+        {
+          "name": "Pasta Pescatore",
+          "photo_url":"https://img.theepochtimes.com/assets/uploads/2023/02/24/Spaghetti-Del-Pescatore.jpg",
+          "ingredients": [
+            "linguine",
+            "olive oil",
+            "garlic",
+            "crushed red pepper flakes",
+            "canned tomatoes",
+            "dry white wine",
+            "clams",
+            "mussels",
+            "shrimp",
+            "calamari",
+            "fresh parsley",
+            "salt",
+            "black pepper",
+            "Parmesan cheese"
+          ],
+          "prepTime": "40 minutes",
+          "description": "A seafood lover's delight with linguine and a rich tomato-based sauce teeming with clams, mussels, shrimp, and calamari.",
+          "steps": [
+            "Cook linguine according to package instructions until al dente. Reserve some pasta water.",
+            "In a large skillet, heat olive oil over medium heat.",
+            "Add minced garlic and crushed red pepper flakes, cooking until fragrant.",
+            "Add canned tomatoes and dry white wine, bringing to a simmer.",
+            "Add clams and mussels, covering and cooking until shells open, about 5 minutes.",
+            "Add shrimp and calamari, cooking until seafood is cooked through, about 3 minutes.",
+            "Season with salt and black pepper to taste.",
+            "Add cooked linguine to the skillet and toss to coat, adding reserved pasta water if needed to loosen the sauce.",
+            "Serve topped with fresh parsley and grated Parmesan cheese."
+          ]
+        },
+        {
+            "name": "Chopped Sandwich",
+            "photo_url":"https://www.sugarandsoul.co/wp-content/uploads/2023/09/chopped-italian-sub-29.jpg",
+            "ingredients": [
+              "bread rolls",
+              "deli meats (ham, turkey, salami)",
+              "cheese slices",
+              "lettuce",
+              "tomato",
+              "onion",
+              "pickles",
+              "mayonnaise",
+              "mustard"
+            ],
+            "prepTime": "15 minutes",
+            "description": "A delicious and customizable sandwich with a variety of deli meats and fresh vegetables.",
+            "steps": [
+              "Slice the bread rolls in half.",
+              "Spread mayonnaise and mustard on each half.",
+              "Layer deli meats, cheese, lettuce, tomato, onion, and pickles on one half of each roll.",
+              "Top with the other half of the roll.",
+              "Cut each sandwich into halves or quarters for easier eating."
+            ]
+          },
+          {
+            "name": "Summer Spaghetti",
+            "photo_url":"https://delightfulmomfood.com/wp-content/uploads/2019/06/pasta-with-zucchini.jpg",
+            "ingredients": [
+              "spaghetti",
+              "cherry tomatoes",
+              "basil leaves",
+              "olive oil",
+              "garlic",
+              "parmesan cheese",
+              "salt",
+              "pepper"
+            ],
+            "prepTime": "20 minutes",
+            "description": "A light and fresh pasta dish perfect for summer, featuring cherry tomatoes and basil.",
+            "steps": [
+              "Cook spaghetti according to package instructions until al dente. Drain and set aside.",
+              "In a large skillet, heat olive oil over medium heat.",
+              "Add minced garlic and cook until fragrant.",
+              "Add halved cherry tomatoes and cook until they start to soften.",
+              "Toss in cooked spaghetti, fresh basil leaves, and grated parmesan cheese.",
+              "Season with salt and pepper to taste.",
+              "Serve immediately, garnished with extra parmesan and basil if desired."
+            ]
+          },
+          {
+            "name": "Chicken Parmesan",
+            "photo_url":"https://feastandmerriment.com/wp-content/uploads/2020/07/chicken-parmesan.jpg",
+            "ingredients": [
+              "chicken breasts",
+              "all-purpose flour",
+              "eggs",
+              "breadcrumbs",
+              "parmesan cheese",
+              "mozzarella cheese",
+              "marinara sauce",
+              "olive oil",
+              "salt",
+              "pepper",
+              "basil leaves"
+            ],
+            "prepTime": "30 minutes",
+            "description": "Crispy breaded chicken breasts topped with marinara sauce and melted cheese.",
+            "steps": [
+              "Preheat oven to 375°F (190°C).",
+              "Pound chicken breasts to even thickness.",
+              "Season flour with salt and pepper.",
+              "Dredge chicken in flour, dip in beaten eggs, then coat with breadcrumbs mixed with grated parmesan.",
+              "Heat olive oil in a large skillet over medium-high heat.",
+              "Cook chicken until golden and crispy on both sides, about 3-4 minutes per side.",
+              "Place chicken in a baking dish, top with marinara sauce and slices of mozzarella cheese.",
+              "Bake in preheated oven for 15-20 minutes until cheese is melted and chicken is cooked through.",
+              "Garnish with fresh basil leaves before serving."
+            ]
+          }
+      ]
+    },
+    {
+      "category": "mexican",
+      "recipes": [
+        {
+          "name": "Easy Mexican Beef Mince Bake",
+          "photo_url":"https://www.recipetineats.com/tachyon/2019/09/Mexican-Ground-Beef-Casserole-with-Rice_0.jpg?resize=747%2C747",
+          "ingredients": [
+            "ground beef",
+            "onion",
+            "garlic",
+            "red bell pepper",
+            "corn kernels",
+            "black beans",
+            "chili powder",
+            "cumin",
+            "paprika",
+            "tomato paste",
+            "canned tomatoes",
+            "cheddar cheese",
+            "corn tortillas",
+            "cilantro",
+            "salt",
+            "black pepper"
+          ],
+          "prepTime": "45 minutes",
+          "description": "A hearty and flavorful beef bake with layers of corn tortillas, spiced beef mince, beans, and cheese.",
+          "steps": [
+            "Preheat oven to 375°F (190°C) and grease a baking dish.",
+            "In a skillet, cook ground beef, onion, and garlic until beef is browned and onion is softened.",
+            "Add diced red bell pepper, corn kernels, black beans, chili powder, cumin, and paprika, cooking until vegetables are tender.",
+            "Stir in tomato paste and canned tomatoes, simmering for 10 minutes until sauce thickens.",
+            "Season with salt and black pepper to taste.",
+            "Layer corn tortillas in the prepared baking dish, spreading beef mixture over each layer.",
+            "Sprinkle grated cheddar cheese over the top layer.",
+            "Bake for 20-25 minutes until cheese is melted and bubbly.",
+            "Serve garnished with chopped cilantro."
+          ]
+        },
+        {
+          "name": "Chicken Tacos with Avocado Salsa Verde",
+          "photo_url":"https://www.mexicanplease.com/wp-content/uploads/2024/03/Chicken-Tacos-with-Avocado-Salsa-Verde-7.jpg",
+          "ingredients": [
+            "chicken breasts",
+            "olive oil",
+            "lime juice",
+            "garlic",
+            "ground cumin",
+            "ground coriander",
+            "salt",
+            "black pepper",
+            "avocado",
+            "tomatillos",
+            "jalapeno",
+            "fresh cilantro",
+            "corn tortillas",
+            "red onion",
+            "radishes",
+            "cotija cheese"
+          ],
+          "prepTime": "30 minutes",
+          "description": "Tender chicken tacos topped with a zesty avocado salsa verde, served with fresh garnishes.",
+          "steps": [
+            "In a bowl, combine olive oil, lime juice, minced garlic, ground cumin, ground coriander, salt, and black pepper.",
+            "Add chicken breasts to the marinade, coating well, and let marinate for 15 minutes.",
+            "Grill chicken breasts over medium-high heat until cooked through, about 6-7 minutes per side. Let rest before slicing.",
+            "In a blender, combine avocado, tomatillos, jalapeno, fresh cilantro, lime juice, salt, and black pepper. Blend until smooth.",
+            "Warm corn tortillas on a hot skillet until lightly charred on both sides.",
+            "Fill each tortilla with sliced grilled chicken, avocado salsa verde, sliced red onion, radish slices, and crumbled cotija cheese.",
+            "Serve immediately, garnished with extra cilantro leaves."
+          ]
+        },
+        {
+          "name": "Creamy Chipotle Chicken Tostadas",
+          "photo_url":"https://www.isabeleats.com/wp-content/uploads/2021/09/chicken-tostadas-small-6.jpg",
+          "ingredients": [
+            "chicken thighs",
+            "olive oil",
+            "chipotle chili powder",
+            "ground cumin",
+            "garlic powder",
+            "salt",
+            "black pepper",
+            "refried beans",
+            "corn tortillas",
+            "avocado",
+            "lime juice",
+            "sour cream",
+            "fresh cilantro",
+            "red onion",
+            "jalapeno",
+            "cotija cheese"
+          ],
+          "prepTime": "35 minutes",
+          "description": "Crispy tostadas topped with creamy chipotle chicken, refried beans, and fresh garnishes.",
+          "steps": [
+            "Preheat oven to 400°F (200°C) and line a baking sheet with parchment paper.",
+            "In a bowl, combine olive oil, chipotle chili powder, ground cumin, garlic powder, salt, and black pepper.",
+            "Add chicken thighs to the spice mixture, coating well, and arrange on the prepared baking sheet.",
+            "Bake chicken thighs for 20-25 minutes until cooked through and slightly charred.",
+            "Shred cooked chicken thighs into bite-sized pieces.",
+            "Spread refried beans evenly on corn tortillas and bake until crisp, about 8-10 minutes.",
+            "In a bowl, mash avocado with lime juice, salt, and black pepper.",
+            "To assemble, spread creamy avocado mixture on each baked tortilla.",
+            "Top with shredded chipotle chicken, sour cream, fresh cilantro leaves, sliced red onion, sliced jalapeno, and crumbled cotija cheese.",
+            "Serve immediately."
+          ]
+        },
+        {
+          "name": "Tortilla Soup",
+          "photo_url":"https://preppykitchen.com/wp-content/uploads/2021/07/Peanut-Butter-Cookie-Recipe-n-500x500.jpg",
+          "ingredients": [
+            "vegetable oil",
+            "onion",
+            "garlic",
+            "ground cumin",
+            "chili powder",
+            "cayenne pepper",
+            "canned diced tomatoes",
+            "chicken broth",
+            "cooked chicken",
+            "corn kernels",
+            "black beans",
+            "lime juice",
+            "salt",
+            "black pepper",
+            "tortilla strips",
+            "avocado",
+            "sour cream",
+            "fresh cilantro"
+          ],
+          "prepTime": "30 minutes",
+          "description": "A comforting soup with a base of tomatoes and chicken broth, loaded with chicken, beans, corn, and crispy tortilla strips.",
+          "steps": [
+            "In a large pot, heat vegetable oil over medium heat.",
+            "Add diced onion and minced garlic, cooking until softened.",
+            "Stir in ground cumin, chili powder, and cayenne pepper, cooking until fragrant.",
+            "Add canned diced tomatoes and chicken broth, bringing to a simmer.",
+            "Add cooked chicken, corn kernels, and black beans, simmering for 15-20 minutes until flavors meld.",
+            "Season with lime juice, salt, and black pepper to taste.",
+            "To serve, ladle soup into bowls and top with tortilla strips, sliced avocado, a dollop of sour cream, and fresh cilantro leaves."
+          ]
+        }
+      ]
+    },
+    {
+      "category": "smoothies",
+      "recipes": [
+        {
+          "name": "Raspberry and Apple Smoothie",
+          "photo_url":"https://preppykitchen.com/wp-content/uploads/2021/07/Peanut-Butter-Cookie-Recipe-n-500x500.jpg",
+          "ingredients": [
+            "fresh raspberries",
+            "apple",
+            "banana",
+            "yogurt",
+            "honey",
+            "milk",
+            "ice cubes"
+          ],
+          "prepTime": "10 minutes",
+          "description": "A refreshing smoothie with raspberries, apple, banana, and yogurt for a creamy texture.",
+          "steps": [
+            "In a blender, combine fresh raspberries, diced apple, sliced banana, yogurt, honey, milk, and ice cubes.",
+            "Blend until smooth and creamy.",
+            "Pour into glasses and serve immediately."
+          ]
+        },
+        {
+          "name": "Blueberry Smoothie",
+          "photo_url":"https://preppykitchen.com/wp-content/uploads/2021/07/Peanut-Butter-Cookie-Recipe-n-500x500.jpg",
+          "ingredients": [
+            "blueberries",
+            "banana",
+            "spinach",
+            "almond butter",
+            "honey",
+            "almond milk",
+            "ice cubes"
+          ],
+          "prepTime": "10 minutes",
+          "description": "A nutrient-packed smoothie with blueberries, banana, spinach, and almond butter for added richness.",
+          "steps": [
+            "In a blender, combine blueberries, sliced banana, fresh spinach leaves, almond butter, honey, almond milk, and ice cubes.",
+            "Blend until smooth and creamy.",
+            "Pour into glasses and serve immediately."
+          ]
+        },
+        {
+          "name": "Rainbow Smoothie",
+          "photo_url":"https://preppykitchen.com/wp-content/uploads/2021/07/Peanut-Butter-Cookie-Recipe-n-500x500.jpg",
+          "ingredients": [
+            "strawberries",
+            "mango",
+            "kiwi",
+            "pineapple",
+            "blueberries",
+            "spinach",
+            "almond milk",
+            "honey",
+            "ice cubes"
+          ],
+          "prepTime": "15 minutes",
+          "description": "A vibrant smoothie with layers of strawberries, mango, kiwi, pineapple, blueberries, and spinach for a nutritious boost.",
+          "steps": [
+            "In a blender, separately blend each fruit layer with almond milk, honey, and ice cubes until smooth.",
+            "Layer the blended mixtures in a glass to create a rainbow effect.",
+            "Serve immediately, swirling gently for a marbled look."
+          ]
+        },
+        {
+          "name": "Cookies and Cream Smoothie",
+          "photo_url":"https://preppykitchen.com/wp-content/uploads/2021/07/Peanut-Butter-Cookie-Recipe-n-500x500.jpg",
+          "ingredients": [
+            "vanilla ice cream",
+            "milk",
+            "chocolate sandwich cookies (like Oreo)"
+          ],
+          "prepTime": "5 minutes",
+          "description": "A decadent smoothie with vanilla ice cream, milk, and chocolate sandwich cookies for a cookies-and-cream delight.",
+          "steps": [
+            "In a blender, combine vanilla ice cream, milk, and chocolate sandwich cookies.",
+            "Blend until smooth and creamy.",
+            "Pour into glasses and serve immediately."
+          ]
+        },
+        {
+          "name": "Carrot Cake Smoothie",
+          "photo_url":"https://preppykitchen.com/wp-content/uploads/2021/07/Peanut-Butter-Cookie-Recipe-n-500x500.jpg",
+          "ingredients": [
+            "carrot",
+            "banana",
+            "rolled oats",
+            "yogurt",
+            "milk",
+            "honey",
+            "cinnamon",
+            "ice cubes"
+          ],
+          "prepTime": "10 minutes",
+          "description": "A nutritious smoothie reminiscent of carrot cake with carrots, banana, oats, yogurt, and warm spices.",
+          "steps": [
+            "In a blender, combine grated carrot, sliced banana, rolled oats, yogurt, milk, honey, cinnamon, and ice cubes.",
+            "Blend until smooth and creamy.",
+            "Pour into glasses and serve immediately."
+          ]
+        },
+        {
+          "name": "Mango Smoothie",
+          "photo_url":"https://preppykitchen.com/wp-content/uploads/2021/07/Peanut-Butter-Cookie-Recipe-n-500x500.jpg",
+          "ingredients": [
+            "mango",
+            "banana",
+            "yogurt",
+            "milk",
+            "honey",
+            "ice cubes"
+          ],
+          "prepTime": "10 minutes",
+          "description": "A tropical delight with mango, banana, yogurt, and honey for a creamy and refreshing smoothie.",
+          "steps": [
+            "In a blender, combine diced mango, sliced banana, yogurt, milk, honey, and ice cubes.",
+            "Blend until smooth and creamy.",
+            "Pour into glasses and serve immediately."
+          ]
+        }
+      ]
+    },
+    {
+      "category": "pizza",
+      "recipes": [
+        {
+          "name": "Easiest Homemade Pizza",
+          "photo_url":"https://preppykitchen.com/wp-content/uploads/2021/07/Peanut-Butter-Cookie-Recipe-n-500x500.jpg",
+          "ingredients": [
+            "pizza dough",
+            "pizza sauce",
+            "mozzarella cheese",
+            "toppings of choice (e.g., pepperoni, mushrooms, bell peppers)"
+          ],
+          "prepTime": "25 minutes",
+          "description": "An easy-to-make homemade pizza with your favorite toppings on a crisp crust.",
+          "steps": [
+            "Preheat oven to 475°F (245°C) and grease a pizza pan or baking sheet.",
+            "Stretch pizza dough onto the prepared pan, spreading pizza sauce evenly over the dough.",
+            "Sprinkle grated mozzarella cheese over the sauce and add toppings of choice.",
+            "Bake for 12-15 minutes until crust is golden and cheese is bubbly.",
+            "Slice and serve hot."
+          ]
+        },
+        {
+          "name": "Margherita Pizza",
+          "photo_url":"https://preppykitchen.com/wp-content/uploads/2021/07/Peanut-Butter-Cookie-Recipe-n-500x500.jpg",
+          "ingredients": [
+            "pizza dough",
+            "pizza sauce",
+            "fresh mozzarella cheese",
+            "fresh basil leaves",
+            "olive oil",
+            "salt",
+            "black pepper"
+          ],
+          "prepTime": "20 minutes",
+          "description": "A classic Italian pizza with fresh mozzarella, basil, and a drizzle of olive oil.",
+          "steps": [
+            "Preheat oven to 475°F (245°C) and grease a pizza pan or baking sheet.",
+            "Stretch pizza dough onto the prepared pan, spreading pizza sauce evenly over the dough.",
+            "Tear fresh mozzarella into pieces and distribute evenly over the sauce.",
+            "Arrange fresh basil leaves on top of the cheese.",
+            "Drizzle olive oil over the pizza and season with salt and black pepper.",
+            "Bake for 12-15 minutes until crust is golden and cheese is melted and bubbly.",
+            "Slice and serve hot."
+          ]
+        },
+        {
+          "name": "Chicken Tikka Masala Pizza",
+          "photo_url":"https://preppykitchen.com/wp-content/uploads/2021/07/Peanut-Butter-Cookie-Recipe-n-500x500.jpg",
+          "ingredients": [
+            "pizza dough",
+            "tomato sauce",
+            "mozzarella cheese",
+            "cooked chicken tikka",
+            "red onion",
+            "cilantro",
+            "garam masala",
+            "salt",
+            "black pepper"
+          ],
+          "prepTime": "30 minutes",
+          "description": "A fusion twist on pizza with flavors of chicken tikka masala, topped with fresh cilantro and red onions.",
+          "steps": [
+            "Preheat oven to 475°F (245°C) and grease a pizza pan or baking sheet.",
+            "Stretch pizza dough onto the prepared pan, spreading tomato sauce evenly over the dough.",
+            "Sprinkle grated mozzarella cheese over the sauce.",
+            "Top with pieces of cooked chicken tikka, sliced red onion, and a sprinkle of garam masala.",
+            "Bake for 12-15 minutes until crust is golden and cheese is bubbly.",
+            "Garnish with chopped cilantro, slice, and serve hot."
+          ]
+        }
+      ]
+    }
+  ]
+  
